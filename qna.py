@@ -3,7 +3,7 @@ questions = {
         "Cream cheese",
         "Butter Cream",
         "Whipped Cream",
-        "Ganache",
+        "Ganache"
     ],
     "Which ingredients combine to create a ganache?": [
         "Whipping cream and melted chocolate",
@@ -33,7 +33,7 @@ questions = {
         "Sponge cake, meringue, and ice cream",
         "Pound cake, meringue, and ice cream",
         "Carrot cake, meringue, and vanilla extract",
-        "Sponge cake, chocolate creme, and whipped cream",
+        "Sponge cake, chocolate creme, and whipped cream"
     ],
     "A turtle candy is commonly made out of which three ingredients?": [
         "Caramel, chocolate, and pecans",
@@ -45,13 +45,13 @@ questions = {
         "Dentist",
         "Writer",
         "Teacher",
-        "Scientist",
+        "Scientist"
     ],
     "Which dessert is named after a famous ballerina?": [
         "Raspberry Pavlova",
         "Baked Alaska",
         "Banana split",
-        "Angel food cake",
+        "Angel food cake"
     ],
     "What is meant to be the main flavor in a traditional tiramisu?": [
         "Coffee",
@@ -75,7 +75,7 @@ questions = {
         "Linzer Torte",
         "Pound Cake",
         "Angel Food Cake",
-        "Devil's Food Cake",
+        "Devil's Food Cake"
     ],
     "What are the four main ingredients in ice cream?": [
         "Eggs, milk, cream, and sugar",
@@ -87,7 +87,7 @@ questions = {
         "Chocolate",
         "Vanilla",
         "Strawberry",
-        "Banana",
+        "Banana"
     ],
     "Which distinct ingredient is used in Italian cheesecakes?": [
         "Ricotta cheese",
@@ -111,15 +111,15 @@ questions = {
         "Frank Epperson",
         "Arthur Granville",
         "Sammy Smith",
-        "Peter Worthington",
+        "Peter Worthington"
     ],
     "Which candy bar is named after the Mars’ family horse?": [
         "BabyRuth" ,
         "Reeses",
         "Toblerone",
-        "Snickers",
+        "Snickers"
     ],
-    "Marzipan is made from which nutxs?": [
+    "Marzipan is made from which nuts?": [
         "Almonds", 
         "Pistachios", 
         "Walnuts", 
@@ -127,20 +127,20 @@ questions = {
     ],
     "Soda mixed with ice cream creates which dessert?": [
         "A float",
-        "Exploding Froth"
-        "Creamy Fizz"
+        "Exploding Froth",
+        "Creamy Fizz",
         "Frothy Delight"
     ],
     "What is the best-selling packaged cookie in the United States?": [
         "Oreo’s",
         "Chips Ahoy!",
         "Keebler Elf Fudge",
-        "Nutter Butter",
+        "Nutter Butter"
     ],
     "In which state was the chocolate chip cookie invented?": [
         "Massachusetts",
         "New York",
         "Pennsylvania",
-        "California",
+        "California"
     ],
 }
