@@ -114,10 +114,10 @@ questions = {
         "Peter Worthington"
     ],
     "Which candy bar is named after the Mars’ family horse?": [
-        "BabyRuth" ,
+        "Snickers",
+        "BabyRuth",
         "Reeses",
-        "Toblerone",
-        "Snickers"
+        "Toblerone"
     ],
     "Marzipan is made from which nuts?": [
         "Almonds", 
